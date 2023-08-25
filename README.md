@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudrojip" alt="rudrojip" /></a> </p>
 
+- 🔭 I’m currently working with **Mirabel Technologies**
+
+- 🌱 I’m currently learning **Tauri to develop cross platform application**
+
 - 💬 Ask me about **React, .NET, C#, SQL, Azure**
 
 - 📫 How to reach me **praneethrudroji@gmail.com**
